@@ -76,13 +76,13 @@ header {
   text-transform: uppercase;
   font-weight: 600;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.25);
-  transition: .2s;
+  transition: 0.2s;
 }
 
 .btn-header:hover {
   transform: scale(1.1);
   box-shadow: 0 0 2rem rgba(0, 0, 0, 0.25);
-} 
+}
 
 main {
   padding-block: 2rem;
@@ -128,7 +128,7 @@ main {
   max-width: 6rem;
 }
 
-.pokemon-info{
+.pokemon-info {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
