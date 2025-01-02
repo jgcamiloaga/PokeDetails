@@ -96,7 +96,7 @@ main {
   display: grid;
   grid-template-columns: 1fr;
   gap: 1rem;
-  padding: 2rem;
+  padding: 0 1rem;
 }
 
 @media screen and (min-width: 470px) {
