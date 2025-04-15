@@ -1,4 +1,4 @@
-# PokeDetails
+# PokeDetails 🤖
 
 PokeDetails es una página web que muestra detalles sobre los Pokémon, incluyendo estadísticas, evoluciones y movimientos. Utiliza la API de PokeAPI para obtener información precisa sobre cada Pokémon.
 
